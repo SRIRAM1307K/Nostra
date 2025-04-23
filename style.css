@@ -185,6 +185,10 @@
   align-items: center;
   font-size: 1.5vw;
 }
+.service-container-1 h2 {
+  font-weight: bold;
+  font-size: 2vw;
+}
 .service-container-2 {
   margin-top: 5vw;
   margin-bottom: 2vw;
