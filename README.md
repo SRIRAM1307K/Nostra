@@ -1,6 +1,3 @@
-Sure! Here's a **detailed GitHub README** for your **Nostra e-commerce website** project:
-
----
 
 # 🛍️ Nostra - E-commerce Website
 
